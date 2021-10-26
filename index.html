@@ -3,10 +3,11 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-		<title>👋 Welcome · GitBook</title>
+		<title>Welcome</title>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="description" content="" />
 		<meta name="generator" content="GitBook 3.2.3" />
+		<link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet" />
 
 		<link rel="stylesheet" href="gitbook/style.css" />
 
@@ -52,11 +53,25 @@
 				<nav role="navigation">
 					<ul class="summary">
 						<li class="chapter active" data-level="1.1" data-path="./">
-							<a href="./"> 👋 Welcome </a>
+							<a href="./">
+								<i
+									class="em em-wave"
+									aria-role="presentation"
+									aria-label="WAVE"
+								></i>
+								Welcome
+							</a>
 						</li>
 
 						<li class="chapter" data-level="1.2" data-path="contacts.html">
-							<a href="contacts.html"> ☎ Contacts </a>
+							<a href="contacts.html">
+								<i
+									class="em em-phone"
+									aria-role="presentation"
+									aria-label="PHONE"
+								></i>
+								Contacts
+							</a>
 						</li>
 
 						<li class="header">Pre-Tourney Info</li>
@@ -162,18 +177,6 @@
 						>
 							<a href="group-1/page-2.html"> Page 2 </a>
 						</li>
-
-						<li class="divider"></li>
-
-						<li>
-							<a
-								href="https://www.gitbook.com"
-								target="blank"
-								class="gitbook-link"
-							>
-								Published with GitBook
-							</a>
-						</li>
 					</ul>
 				</nav>
 			</div>
@@ -233,14 +236,13 @@
 												connection settings are functional.
 											</li>
 										</ol>
+										<br />
 										<p>See you in a few days!</p>
+										<br />
 										<p>
-											<strong>Bob Albayda</strong>
+											<strong>Bob Albayda</strong><br />
+											Tab and Technical Director
 										</p>
-										<p>Tab and Technical Director</p>
-										<hr />
-										<hr />
-										<hr />
 									</section>
 								</div>
 								<div class="search-results">
@@ -276,11 +278,11 @@
 				gitbook.push(function () {
 					gitbook.page.hasChanged({
 						page: {
-							title: "👋 Welcome",
+							title: "Welcome",
 							level: "1.1",
 							depth: 1,
 							next: {
-								title: "☎ Contacts",
+								title: "Contacts",
 								level: "1.2",
 								depth: 1,
 								path: "contacts.md",
@@ -300,12 +302,7 @@
 								lunr: { maxIndexSize: 1000000, ignoreSpecialCharacters: false },
 								sharing: {
 									facebook: true,
-									twitter: false,
-									google: false,
-									weibo: false,
-									instapaper: false,
-									vk: false,
-									all: ["facebook"],
+									youtube: true,
 								},
 								fontsettings: { theme: "white", family: "sans", size: 2 },
 								"theme-default": {
