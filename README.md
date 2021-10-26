@@ -14,11 +14,6 @@ Also, a few reminders for everyone:
 
 See you in a few days!
 
-**Bob Albayda**, Tab and Technical Director
-
-****
-
-****
-
-****
+**Bob Albayda**
+Tab and Technical Director
 
