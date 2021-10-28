@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-The purpose of this document is to familiarize you with the platforms we will use to host Luzon IV, as well as the protocols we have in place for rounds, ballots, and disconnection events. Please take the time to read through this well before the first day of prelims.
+The purpose of this document is to acquaint you with the platforms we will use to host Luzon IV, as well as the protocols we have in place for rounds, ballots, and disconnection events. Please take the time to read through this well before the first day of prelims.
 
 Also, a few reminders for everyone:
 
@@ -10,10 +10,7 @@ Also, a few reminders for everyone:
 4. Bookmark your private tab URL. If you do not have it yet, please contact me.
 5. Double-check that your mic, audio, and Internet connection settings are functional.
 
-
-
 See you in a few days!
 
-**Bob Albayda**,
+**Bob Albayda**,\
 Tab and Technical Director
-

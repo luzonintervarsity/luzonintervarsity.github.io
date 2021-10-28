@@ -5,10 +5,7 @@ require(["gitbook", "jquery"], function (gitbook, $) {
 			icon: "fa fa-youtube-play",
 			onClick: function (e) {
 				e.preventDefault();
-				window.open(
-					"http://twitter.com/home?status=" +
-						encodeURIComponent(document.title + " " + location.href)
-				);
+				window.open("https://www.youtube.com/channel/UCGY4KQ-5z_2XLqlFHpzXdKw");
 			},
 		},
 		facebook: {

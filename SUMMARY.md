@@ -1,23 +1,30 @@
 # Table of contents
 
-* [👋 Welcome](README.md)
-* [☎ Contacts](contacts.md)
+- [Welcome](README.md)
+- [Contacts](pre-tournament-info/contacts.md)
+- [Schedule](https://docs.google.com/spreadsheets/d/13SOrO2zeIoOWwNYgfZ6U8IugNWaU3g1HH9rcJJ2-UJA/view#gid=1159404953)
 
-## Pre-Tourney Info
+## Pre-Tournament Setup
 
-* [Tournament Platforms](pre-tourney-info/tournament-platforms.md)
-* [How to Access the LIV Server](pre-tourney-info/how-to-access-the-liv-server/README.md)
-  * [Observer Policy](pre-tourney-info/how-to-access-the-liv-server/observer-policy.md)
-* [Parts of the Server](pre-tourney-info/parts-of-the-server.md)
+- [Host Platforms](pre-tournament-setup/platforms.md)
+- [Accessing the LIV Discord](pre-tournament-setup/accessing-discord/README.md)
+  - [Observer Policy](pre-tournament-setup/accessing-discord/observer-policy.md)
 
-## Tourney Procedures
+## Tournament Protocol
 
-* [Round Flow](tourney-procedures/round-flow.md)
-* [Timing with the Hear Hear! Bot](tourney-procedures/timing-with-the-hear-hear-bot.md)
-* [Disconnection Policy](tourney-procedures/disconnection-policy.md)
-* [Ballots and Feedback](tourney-procedures/ballots-and-feedback.md)
-* [Runners](tourney-procedures/runners.md)
+- [Round Flow](tournament-protocol/round-flow.md)
+- [Check-ins](tournament-protocol/check-ins.md)
+- [Ballots and Feedback](tournament-protocol/ballots-and-feedback.md)
+- [Disconnection Policy](tournament-protocol/disconnection-policy.md)
 
-## Group 1
+## Tips
 
-* [Page 2](group-1/page-2.md)
+- [Time with the Hear Hear! Bot](tips/time-with-the-hear-hear-bot.md)
+- [Find a specific user or channel](tips/find-a-specific-user-or-channel.md)
+- [Remove bakground noise with Krisp](https://krisp.ai/)
+
+## Other Briefings (to be added)
+
+- [Judging and Debating](/)
+- [Scoring Scales](/)
+- [Equity Policy](/)
