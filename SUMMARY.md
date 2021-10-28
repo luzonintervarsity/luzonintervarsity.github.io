@@ -1,7 +1,7 @@
 # Table of contents
 
 - [Welcome](README.md)
-- [Contacts](pre-tournament-info/contacts.md)
+- [Contacts](contacts.md)
 - [Schedule](https://docs.google.com/spreadsheets/d/13SOrO2zeIoOWwNYgfZ6U8IugNWaU3g1HH9rcJJ2-UJA/view#gid=1159404953)
 
 ## Pre-Tournament Setup
