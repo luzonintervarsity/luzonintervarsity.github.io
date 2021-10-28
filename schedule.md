@@ -1,4 +1,4 @@
-# Schedule
+# 📅 Schedule
 
 ![schedule](schedule.png)
 
