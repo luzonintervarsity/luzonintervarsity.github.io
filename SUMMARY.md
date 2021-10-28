@@ -21,7 +21,7 @@
 
 - [Time with the Hear Hear! Bot](tips/time-with-the-hear-hear-bot.md)
 - [Find a specific user or channel](tips/find-a-specific-user-or-channel.md)
-- [Remove bakground noise with Krisp](https://krisp.ai/)
+- [Remove background noise with Krisp](https://krisp.ai/)
 
 ## Other Briefings (to be added)
 
