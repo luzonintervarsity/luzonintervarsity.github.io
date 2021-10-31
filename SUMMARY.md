@@ -16,6 +16,7 @@
 - [Check-ins](tournament-protocol/check-ins.md)
 - [Ballots and Feedback](tournament-protocol/ballots-and-feedback.md)
 - [Disconnection Policy](tournament-protocol/disconnection-policy.md)
+- [Break Eligibility](tournament-protocol/break-eligibility.md)
 
 ## Tips
 
